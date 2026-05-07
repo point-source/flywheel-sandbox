@@ -5,6 +5,15 @@
 
 * e2e customer-acme tag isolation ([#2605](https://github.com/point-source/flywheel-sandbox/issues/2605)) ([b5dcf92](https://github.com/point-source/flywheel-sandbox/commit/b5dcf921bbcce13c0f8bff994a94ee7c82571292))
 * e2e customer-acme tag isolation ([#2638](https://github.com/point-source/flywheel-sandbox/issues/2638)) ([2c9e461](https://github.com/point-source/flywheel-sandbox/commit/2c9e461cce3ce71dcd1eac062b138dd2e301c4b9))
+* e2e customer-acme tag isolation ([#2678](https://github.com/point-source/flywheel-sandbox/issues/2678)) ([78d21c2](https://github.com/point-source/flywheel-sandbox/commit/78d21c21cdcb67a0de615b73a6efbbb5cc7fee3c))
+
+## [1.0.1](https://github.com/point-source/flywheel-sandbox/compare/customer-acme/v1.0.0...customer-acme/v1.0.1) (2026-05-07)
+
+
+### Bug Fixes
+
+* e2e customer-acme tag isolation ([#2605](https://github.com/point-source/flywheel-sandbox/issues/2605)) ([b5dcf92](https://github.com/point-source/flywheel-sandbox/commit/b5dcf921bbcce13c0f8bff994a94ee7c82571292))
+* e2e customer-acme tag isolation ([#2638](https://github.com/point-source/flywheel-sandbox/issues/2638)) ([2c9e461](https://github.com/point-source/flywheel-sandbox/commit/2c9e461cce3ce71dcd1eac062b138dd2e301c4b9))
 
 ## [1.0.1](https://github.com/point-source/flywheel-sandbox/compare/customer-acme/v1.0.0...customer-acme/v1.0.1) (2026-05-07)
 
