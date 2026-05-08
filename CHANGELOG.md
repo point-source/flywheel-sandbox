@@ -1,3 +1,10 @@
+# [1.0.0-dev.23](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-dev.22...v1.0.0-dev.23) (2026-05-08)
+
+
+### Bug Fixes
+
+* e2e promotion seed ([#2865](https://github.com/point-source/flywheel-sandbox/issues/2865)) ([9a84611](https://github.com/point-source/flywheel-sandbox/commit/9a846116b700fb57cf7a0c93cfcc48cf0665ccfc))
+
 # [1.0.0-dev.22](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-dev.21...v1.0.0-dev.22) (2026-05-08)
 
 
