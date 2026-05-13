@@ -1,12 +1,201 @@
-# [1.0.0-dev.29](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-dev.28...v1.0.0-dev.29) (2026-05-13)
+# [](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-dev.29...v) (2026-05-13)
+
+# [1.0.0-dev.29](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-rc.38...v1.0.0-dev.29) (2026-05-13)
+
+# [1.0.0-dev.28](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-dev.27...v1.0.0-dev.28) (2026-05-13)
+
+
+### Bug Fixes
+
+* e2e auto-merge happy path ([#2900](https://github.com/point-source/flywheel-sandbox/issues/2900)) ([8247624](https://github.com/point-source/flywheel-sandbox/commit/824762414090be572e6dbb6829134152029368df))
+
+# [1.0.0-dev.27](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-dev.26...v1.0.0-dev.27) (2026-05-13)
+
+
+### Bug Fixes
+
+* e2e promotion seed ([#2898](https://github.com/point-source/flywheel-sandbox/issues/2898)) ([7062a5e](https://github.com/point-source/flywheel-sandbox/commit/7062a5e83d217da35a24c22a57fde7792e8da030))
+
+# [1.0.0-dev.26](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-rc.36...v1.0.0-dev.26) (2026-05-13)
+
+# [1.0.0-dev.25](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-rc.35...v1.0.0-dev.25) (2026-05-13)
+
+# [1.0.0-dev.24](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-dev.23...v1.0.0-dev.24) (2026-05-08)
+
+
+### Bug Fixes
+
+* e2e auto-merge happy path ([#2868](https://github.com/point-source/flywheel-sandbox/issues/2868)) ([50e8557](https://github.com/point-source/flywheel-sandbox/commit/50e85575ab1fda875f8447f810b0aef5ba61d998))
+
+# [1.0.0-dev.23](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-rc.33...v1.0.0-dev.23) (2026-05-08)
+
+
+### Bug Fixes
+
+* e2e promotion seed ([#2865](https://github.com/point-source/flywheel-sandbox/issues/2865)) ([9a84611](https://github.com/point-source/flywheel-sandbox/commit/9a846116b700fb57cf7a0c93cfcc48cf0665ccfc))
+
+# [1.0.0-dev.22](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-dev.21...v1.0.0-dev.22) (2026-05-08)
+
+
+### Bug Fixes
+
+* e2e auto-merge happy path ([#2837](https://github.com/point-source/flywheel-sandbox/issues/2837)) ([baa5a68](https://github.com/point-source/flywheel-sandbox/commit/baa5a686281f704c34b2110458f68b3c993f5cf3))
+
+# [1.0.0-dev.21](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-rc.30...v1.0.0-dev.21) (2026-05-08)
+
+
+### Bug Fixes
+
+* e2e promotion seed ([#2834](https://github.com/point-source/flywheel-sandbox/issues/2834)) ([c2717f2](https://github.com/point-source/flywheel-sandbox/commit/c2717f27eb815806f0541da7fb79b36f72cd695b))
+
+# [1.0.0-dev.20](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-dev.19...v1.0.0-dev.20) (2026-05-07)
+
+
+### Bug Fixes
+
+* e2e auto-merge happy path ([#2805](https://github.com/point-source/flywheel-sandbox/issues/2805)) ([a03ef09](https://github.com/point-source/flywheel-sandbox/commit/a03ef093c7ebb66c1b238fb369544651360e08ce))
+
+# [1.0.0-dev.19](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-rc.28...v1.0.0-dev.19) (2026-05-07)
+
+
+### Bug Fixes
+
+* e2e promotion seed ([#2802](https://github.com/point-source/flywheel-sandbox/issues/2802)) ([57cd6f8](https://github.com/point-source/flywheel-sandbox/commit/57cd6f84fa2ddbfed8c2d7ff723ca7db5bd1e0de))
+
+# [1.0.0-dev.18](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-dev.17...v1.0.0-dev.18) (2026-05-07)
+
+
+### Bug Fixes
+
+* e2e auto-merge happy path ([#2767](https://github.com/point-source/flywheel-sandbox/issues/2767)) ([19ea64d](https://github.com/point-source/flywheel-sandbox/commit/19ea64df450cf63124e3606d3377999329a184c3))
+
+# [1.0.0-dev.17](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-rc.26...v1.0.0-dev.17) (2026-05-07)
+
+
+### Bug Fixes
+
+* e2e promotion seed ([#2764](https://github.com/point-source/flywheel-sandbox/issues/2764)) ([ac1efae](https://github.com/point-source/flywheel-sandbox/commit/ac1efae781b9e5cdbb4ee678dad933755c3c1fcf))
+
+# [1.0.0-dev.16](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-dev.15...v1.0.0-dev.16) (2026-05-07)
+
+
+### Bug Fixes
+
+* e2e auto-merge happy path ([#2707](https://github.com/point-source/flywheel-sandbox/issues/2707)) ([abba442](https://github.com/point-source/flywheel-sandbox/commit/abba4429e28e9ef30eb00db5b54b8c05b6b15871))
+
+# [1.0.0-dev.15](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-rc.21...v1.0.0-dev.15) (2026-05-07)
+
+
+### Bug Fixes
+
+* e2e promotion seed ([#2704](https://github.com/point-source/flywheel-sandbox/issues/2704)) ([1d5f343](https://github.com/point-source/flywheel-sandbox/commit/1d5f34399bf71ea50fb32cc0cd3d1a01c0f88d27))
+
+# [1.0.0-dev.14](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-dev.13...v1.0.0-dev.14) (2026-05-07)
+
+
+### Bug Fixes
+
+* e2e auto-merge happy path ([#2679](https://github.com/point-source/flywheel-sandbox/issues/2679)) ([432e3e4](https://github.com/point-source/flywheel-sandbox/commit/432e3e443c433e825861490ecf71edff97dc808e))
+
+# [1.0.0-dev.13](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-rc.19...v1.0.0-dev.13) (2026-05-07)
+
+
+### Bug Fixes
+
+* e2e promotion seed ([#2676](https://github.com/point-source/flywheel-sandbox/issues/2676)) ([61da407](https://github.com/point-source/flywheel-sandbox/commit/61da4078ddbb5e715e819dfcf4ba79267348f36a))
+
+# [1.0.0-dev.12](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-dev.11...v1.0.0-dev.12) (2026-05-07)
+
+
+### Bug Fixes
+
+* e2e auto-merge happy path ([#2639](https://github.com/point-source/flywheel-sandbox/issues/2639)) ([2780a1f](https://github.com/point-source/flywheel-sandbox/commit/2780a1f23788a5604a64431a94d879c7ce05ae23))
+
+# [1.0.0-dev.11](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-rc.16...v1.0.0-dev.11) (2026-05-07)
+
+
+### Bug Fixes
+
+* e2e promotion seed ([#2636](https://github.com/point-source/flywheel-sandbox/issues/2636)) ([818a9ee](https://github.com/point-source/flywheel-sandbox/commit/818a9ee0cf89d7c92143c5369053cf9d833e47b3))
+
+# [1.0.0-dev.10](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-dev.9...v1.0.0-dev.10) (2026-05-07)
+
+
+### Bug Fixes
+
+* e2e auto-merge happy path ([#2606](https://github.com/point-source/flywheel-sandbox/issues/2606)) ([3c47ebb](https://github.com/point-source/flywheel-sandbox/commit/3c47ebba9b6d91cbc55cb815c533429452c7cd56))
+
+# [1.0.0-dev.9](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-rc.13...v1.0.0-dev.9) (2026-05-07)
+
+
+### Bug Fixes
+
+* e2e promotion seed ([#2603](https://github.com/point-source/flywheel-sandbox/issues/2603)) ([7bd4187](https://github.com/point-source/flywheel-sandbox/commit/7bd418704ea3233c0295ff781e3f8ede2fe51a3d))
+
+# [1.0.0-dev.8](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-rc.11...v1.0.0-dev.8) (2026-05-07)
+
+
+### Bug Fixes
+
+* e2e promotion seed ([#2577](https://github.com/point-source/flywheel-sandbox/issues/2577)) ([b4ece19](https://github.com/point-source/flywheel-sandbox/commit/b4ece19c03990370c894676f585860ca5c501eb5))
+
+# [1.0.0-dev.7](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-dev.6...v1.0.0-dev.7) (2026-05-07)
+
+
+### Bug Fixes
+
+* e2e auto-merge happy path ([#2550](https://github.com/point-source/flywheel-sandbox/issues/2550)) ([7a01d94](https://github.com/point-source/flywheel-sandbox/commit/7a01d9448b8457f0634028d455d0b66b90922a74))
+
+# [1.0.0-dev.6](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-rc.9...v1.0.0-dev.6) (2026-05-07)
+
+
+### Bug Fixes
+
+* e2e promotion seed ([#2547](https://github.com/point-source/flywheel-sandbox/issues/2547)) ([2bb0041](https://github.com/point-source/flywheel-sandbox/commit/2bb0041d9dc4eda95c54c5ddc06d4d2610b4beca))
+
+# [1.0.0-dev.5](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-dev.4...v1.0.0-dev.5) (2026-05-07)
+
+
+### Bug Fixes
+
+* e2e auto-merge happy path ([#2489](https://github.com/point-source/flywheel-sandbox/issues/2489)) ([2703e4d](https://github.com/point-source/flywheel-sandbox/commit/2703e4d86dc72c8a7d0bc95c478fa2926b5f6c36))
+
+# [1.0.0-dev.4](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-rc.7...v1.0.0-dev.4) (2026-05-07)
+
+
+### Bug Fixes
+
+* e2e promotion seed ([#2486](https://github.com/point-source/flywheel-sandbox/issues/2486)) ([6fd7475](https://github.com/point-source/flywheel-sandbox/commit/6fd747590b2a27b2c9f81615a2071cb69eb98c9e))
+
+# [1.0.0-dev.3](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-dev.2...v1.0.0-dev.3) (2026-05-07)
+
+
+### Bug Fixes
+
+* e2e auto-merge happy path ([#2459](https://github.com/point-source/flywheel-sandbox/issues/2459)) ([e0c4048](https://github.com/point-source/flywheel-sandbox/commit/e0c40484f504de42cdce5841a7165777dc472862))
+
+# [1.0.0-dev.2](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-rc.4...v1.0.0-dev.2) (2026-05-07)
+
+
+### Bug Fixes
+
+* e2e promotion seed ([#2456](https://github.com/point-source/flywheel-sandbox/issues/2456)) ([1c713f5](https://github.com/point-source/flywheel-sandbox/commit/1c713f5b118b19c53ccce4f16caa9df02eb99b7b))
+
+# [1.0.0-dev.1](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-rc.1...v1.0.0-dev.1) (2026-05-07)
+
+# [1.0.0-rc.38](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-rc.37...v1.0.0-rc.38) (2026-05-13)
+
+
+### Bug Fixes
+
+* accumulate first commit ([#2916](https://github.com/point-source/flywheel-sandbox/issues/2916)) ([a42e1b9](https://github.com/point-source/flywheel-sandbox/commit/a42e1b9c8b215eae736dd052ac504f68757b3026))
+
+# [1.0.0-rc.37](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-dev.28...v1.0.0-rc.37) (2026-05-13)
 
 
 ### Bug Fixes
 
 * accumulate first commit ([#2908](https://github.com/point-source/flywheel-sandbox/issues/2908)) ([789cdb0](https://github.com/point-source/flywheel-sandbox/commit/789cdb0a6d20999efb7414cd2052ef9997163a18))
-* accumulate first commit ([#2916](https://github.com/point-source/flywheel-sandbox/issues/2916)) ([a42e1b9](https://github.com/point-source/flywheel-sandbox/commit/a42e1b9c8b215eae736dd052ac504f68757b3026))
-
-# [](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-dev.28...v) (2026-05-13)
 
 # [1.0.0-dev.28](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-dev.27...v1.0.0-dev.28) (2026-05-13)
 
