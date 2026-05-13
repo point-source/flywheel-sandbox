@@ -17,7 +17,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
+<<<<<<< HEAD
       - uses: point-source/flywheel@48d8f621aa47a040fa1f6fd06d905c4341685759
+=======
+      - uses: point-source/flywheel@340890d3e0a7c9ee8660a5ceac1e24af4098454d
+>>>>>>> e2e-staging
         with:
           event: pull_request
           app-id: ${{ vars.FLYWHEEL_GH_APP_ID }}
