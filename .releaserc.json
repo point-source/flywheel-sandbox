@@ -1,0 +1,34 @@
+{
+  "tagFormat": "v${version}",
+  "branches": [
+    {
+      "name": "e2e-develop",
+      "prerelease": "dev",
+      "channel": "dev"
+    },
+    {
+      "name": "e2e-staging",
+      "prerelease": "rc",
+      "channel": "rc"
+    },
+    {
+      "name": "e2e-main"
+    }
+  ],
+  "plugins": [
+    "@semantic-release/commit-analyzer",
+    "@semantic-release/release-notes-generator",
+    "@semantic-release/changelog",
+    "@semantic-release/exec",
+    [
+      "@semantic-release/git",
+      {
+        "assets": [
+          "CHANGELOG.md"
+        ],
+        "message": "chore(release): ${nextRelease.version}\n\n${nextRelease.notes}"
+      }
+    ],
+    "@semantic-release/github"
+  ]
+}
