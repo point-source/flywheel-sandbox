@@ -1,3 +1,11 @@
+# [1.0.0-rc.47](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-rc.46...v1.0.0-rc.47) (2026-05-14)
+
+
+### Bug Fixes
+
+* accumulate first commit ([#3034](https://github.com/point-source/flywheel-sandbox/issues/3034)) ([7211aa0](https://github.com/point-source/flywheel-sandbox/commit/7211aa01c76e961a4706c461a14bb6f41c752255))
+* e2e back-merge seed ([#3032](https://github.com/point-source/flywheel-sandbox/issues/3032)) ([223e427](https://github.com/point-source/flywheel-sandbox/commit/223e4279a56e9e3f7781e9fb81ad072ab6173fd7))
+
 # [1.0.0-rc.47](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-rc.46...v1.0.0-rc.47) (2026-05-13)
 
 
