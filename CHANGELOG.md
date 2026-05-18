@@ -1,3 +1,11 @@
+# [1.0.0-dev.50](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-dev.49...v1.0.0-dev.50) (2026-05-18)
+
+
+### Bug Fixes
+
+* e2e back-merge seed ([#3048](https://github.com/point-source/flywheel-sandbox/issues/3048)) ([80bc278](https://github.com/point-source/flywheel-sandbox/commit/80bc2786a7e9ede9008243b6faa49c769b4e2a42))
+* e2e back-merge seed ([#3056](https://github.com/point-source/flywheel-sandbox/issues/3056)) ([72d6eca](https://github.com/point-source/flywheel-sandbox/commit/72d6eca8801bf668e0b793db8b1f85c355079383))
+
 # [](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-dev.49...v) (2026-05-18)
 
 # [1.0.0-dev.49](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-dev.48...v1.0.0-dev.49) (2026-05-14)
