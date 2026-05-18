@@ -1,3 +1,16 @@
+# [1.28.0](https://github.com/point-source/flywheel-sandbox/compare/integration/v1.27.1...integration/v1.28.0) (2026-05-18)
+
+
+### Bug Fixes
+
+* enable auto-merge integration ([#3052](https://github.com/point-source/flywheel-sandbox/issues/3052)) ([8992bc8](https://github.com/point-source/flywheel-sandbox/commit/8992bc8ba09394c3dba13033254ae006c2345fe9))
+* enable auto-merge integration ([#3115](https://github.com/point-source/flywheel-sandbox/issues/3115)) ([5cf3ed4](https://github.com/point-source/flywheel-sandbox/commit/5cf3ed4ca68fd2f754e06c8ed0d308078d916bbf))
+
+
+### Features
+
+* will be retitled ([#3114](https://github.com/point-source/flywheel-sandbox/issues/3114)) ([00b65d5](https://github.com/point-source/flywheel-sandbox/commit/00b65d5eebff2d7edc0f3b796772c79a5b2b71ec))
+
 ## [1.27.1](https://github.com/point-source/flywheel-sandbox/compare/integration/v1.27.0...integration/v1.27.1) (2026-05-18)
 
 
