@@ -1,3 +1,10 @@
+# [1.0.0-dev.77](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-dev.76...v1.0.0-dev.77) (2026-05-19)
+
+
+### Bug Fixes
+
+* accumulate first commit ([#3348](https://github.com/point-source/flywheel-sandbox/issues/3348)) ([5fc52ce](https://github.com/point-source/flywheel-sandbox/commit/5fc52ce103aa29d06795c1151202b2bea5873b5a))
+
 # [](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-dev.76...v) (2026-05-19)
 
 # [1.0.0-dev.76](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-rc.69...v1.0.0-dev.76) (2026-05-19)
