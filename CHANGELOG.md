@@ -1,3 +1,10 @@
+# [1.0.0-rc.72](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-rc.71...v1.0.0-rc.72) (2026-05-19)
+
+
+### Bug Fixes
+
+* e2e back-merge seed ([#3387](https://github.com/point-source/flywheel-sandbox/issues/3387)) ([706c536](https://github.com/point-source/flywheel-sandbox/commit/706c53682343863a0613eba185353c59361d9d66))
+
 # [1.0.0-rc.71](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-rc.70...v1.0.0-rc.71) (2026-05-19)
 
 
