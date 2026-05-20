@@ -3,6 +3,14 @@
 
 ### Bug Fixes
 
+* accumulate first commit ([#3526](https://github.com/point-source/flywheel-sandbox/issues/3526)) ([e5de204](https://github.com/point-source/flywheel-sandbox/commit/e5de204de4ce6c44582216c3fba164bd32dca5c2))
+* e2e back-merge seed ([#3516](https://github.com/point-source/flywheel-sandbox/issues/3516)) ([2dfb2d8](https://github.com/point-source/flywheel-sandbox/commit/2dfb2d8646ff4cdb40e585318bd672b919b2edbd))
+
+# [1.0.0-rc.78](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-rc.77...v1.0.0-rc.78) (2026-05-20)
+
+
+### Bug Fixes
+
 * e2e back-merge seed ([#3516](https://github.com/point-source/flywheel-sandbox/issues/3516)) ([2dfb2d8](https://github.com/point-source/flywheel-sandbox/commit/2dfb2d8646ff4cdb40e585318bd672b919b2edbd))
 
 # [1.0.0-rc.77](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-rc.76...v1.0.0-rc.77) (2026-05-19)
