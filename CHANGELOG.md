@@ -1,3 +1,10 @@
+# [1.0.0-dev.120](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-dev.119...v1.0.0-dev.120) (2026-05-21)
+
+
+### Bug Fixes
+
+* e2e auto-merge happy path ([#3710](https://github.com/point-source/flywheel-sandbox/issues/3710)) ([c53dc15](https://github.com/point-source/flywheel-sandbox/commit/c53dc15ab513518b892e981fc7e48d68aca0b6f5))
+
 # [1.0.0-dev.119](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-dev.118...v1.0.0-dev.119) (2026-05-21)
 
 
