@@ -1,5 +1,4 @@
 flywheel:
-  release_as_draft: true
   streams:
     - name: main-line
       branches:
