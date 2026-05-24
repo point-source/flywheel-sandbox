@@ -17,7 +17,7 @@ jobs:
           # semantic-release embeds in its push URL, and the workflow's
           # token only has read scope here.
           persist-credentials: false
-      - uses: point-source/flywheel@7dc79db74daa00f8dca8a890567559f392226e4d
+      - uses: point-source/flywheel@d86868b599dbaeb35cd44b3b3c06dd590b28365a
         id: flywheel
         with:
           event: push
