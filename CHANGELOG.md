@@ -1,9 +1,4 @@
-# [1.0.0-dev.140](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-dev.139...v1.0.0-dev.140) (2026-05-24)
-
-
-### Bug Fixes
-
-* e2e back-merge seed ([#3911](https://github.com/point-source/flywheel-sandbox/issues/3911)) ([1c481e1](https://github.com/point-source/flywheel-sandbox/commit/1c481e1d542dcd160bdc85aef80e5acbc3b45161))
+# [](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-dev.140...v) (2026-05-24)
 
 # [1.0.0-dev.140](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-dev.139...v1.0.0-dev.140) (2026-05-24)
 
@@ -11,8 +6,6 @@
 ### Bug Fixes
 
 * e2e back-merge seed ([#3911](https://github.com/point-source/flywheel-sandbox/issues/3911)) ([1c481e1](https://github.com/point-source/flywheel-sandbox/commit/1c481e1d542dcd160bdc85aef80e5acbc3b45161))
-
-# [](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-dev.139...v) (2026-05-24)
 
 # [1.0.0-dev.139](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-dev.138...v1.0.0-dev.139) (2026-05-24)
 
