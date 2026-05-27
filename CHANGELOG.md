@@ -1,3 +1,16 @@
+# [1.104.0](https://github.com/point-source/flywheel-sandbox/compare/integration/v1.103.0...integration/v1.104.0) (2026-05-27)
+
+
+### Bug Fixes
+
+* enable auto-merge integration ([#4261](https://github.com/point-source/flywheel-sandbox/issues/4261)) ([701887e](https://github.com/point-source/flywheel-sandbox/commit/701887e2db38ad92ff7ba6b302cba8ce80d86793))
+* integration label test ([#4258](https://github.com/point-source/flywheel-sandbox/issues/4258)) ([c93100d](https://github.com/point-source/flywheel-sandbox/commit/c93100d334d29c2dff427abb0689a1673bff56f4))
+
+
+### Features
+
+* will be retitled ([#4260](https://github.com/point-source/flywheel-sandbox/issues/4260)) ([c34f958](https://github.com/point-source/flywheel-sandbox/commit/c34f9586b969fd16ccb907e67520e7adff60492b))
+
 # [1.103.0](https://github.com/point-source/flywheel-sandbox/compare/integration/v1.102.0...integration/v1.103.0) (2026-05-27)
 
 
