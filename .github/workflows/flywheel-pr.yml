@@ -1,4 +1,6 @@
 name: Flywheel — PR
+run-name: >-
+  ${{ github.workflow }} — ${{ github.event.head_commit.message || github.event.pull_request.title || github.event.release.tag_name || github.ref_name }}
 on:
   pull_request:
     types: [opened, synchronize, reopened, ready_for_review, edited]
@@ -17,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
-      - uses: point-source/flywheel@2e1b24558280ff08643fb087dd09c0a74f020ea6
+      - uses: point-source/flywheel@83a3927c24ea9f341df6c20199ea8078074d03de
         with:
           event: pull_request
           app-id: ${{ vars.FLYWHEEL_GH_APP_ID }}
