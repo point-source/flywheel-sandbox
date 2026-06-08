@@ -11,7 +11,7 @@ jobs:
   release:
     runs-on: ubuntu-latest
     steps:
-      # `uses: point-source/flywheel@0bef0bcf34b3561b24fa13cedb74b5683c05ef39` resolves against the calling workflow's workspace, so the
+      # `uses: point-source/flywheel@4c8d37b9bb19461681757e1363ce8f0dee041e01` resolves against the calling workflow's workspace, so the
       # action source has to be on disk before the composite is invoked. For
       # an adopter this checkout is implicit (GitHub fetches the action when
       # they pin `point-source/flywheel@<ref>`); the dogfood needs it
@@ -22,7 +22,7 @@ jobs:
       # matter that the first checkout used the workflow's default token.
       # See SPEC §spec:action-version-lockstep.
       - uses: actions/checkout@v6
-      - uses: point-source/flywheel@0bef0bcf34b3561b24fa13cedb74b5683c05ef39
+      - uses: point-source/flywheel@4c8d37b9bb19461681757e1363ce8f0dee041e01
         with:
           event: push
           app-id: ${{ vars.FLYWHEEL_GH_APP_ID }}
