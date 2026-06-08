@@ -1,3 +1,10 @@
+# [1.0.0-dev.193](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-dev.192...v1.0.0-dev.193) (2026-06-08)
+
+
+### Bug Fixes
+
+* e2e second draft release ([#4671](https://github.com/point-source/flywheel-sandbox/issues/4671)) ([bf44b69](https://github.com/point-source/flywheel-sandbox/commit/bf44b697a9e26de5d95ef960fcbfd3e45cf4aa37))
+
 # [1.0.0-dev.192](https://github.com/point-source/flywheel-sandbox/compare/v1.0.0-dev.191...v1.0.0-dev.192) (2026-06-08)
 
 
