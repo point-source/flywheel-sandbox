@@ -18,8 +18,14 @@ jobs:
       (github.event.action != 'edited' || github.event.sender.type == 'User')
     runs-on: ubuntu-latest
     steps:
+      # `uses: point-source/flywheel@0bef0bcf34b3561b24fa13cedb74b5683c05ef39` resolves against the calling workflow's workspace, so the
+      # action source has to be on disk before the composite is invoked. For
+      # an adopter this checkout is implicit (GitHub fetches the action when
+      # they pin `point-source/flywheel@<ref>`); the dogfood needs it
+      # explicit so it can exercise the composite against the source under
+      # review on every PR. See SPEC §spec:action-version-lockstep.
       - uses: actions/checkout@v6
-      - uses: point-source/flywheel@dd327dc595857b177b42e516e2bc90e9db838685
+      - uses: point-source/flywheel@0bef0bcf34b3561b24fa13cedb74b5683c05ef39
         with:
           event: pull_request
           app-id: ${{ vars.FLYWHEEL_GH_APP_ID }}
