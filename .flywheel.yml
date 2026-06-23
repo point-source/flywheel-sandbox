@@ -3,6 +3,7 @@ flywheel:
     - name: main-line
       branches:
         - name: e2e-develop
+          release_as_draft: true
           release: prerelease
           suffix: dev
           auto_merge: [fix, fix!, chore, style, test, docs]
